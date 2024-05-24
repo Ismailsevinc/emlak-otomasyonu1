@@ -1,0 +1,701 @@
+﻿2024-05-18 12:55:37 - Doğru giriş girilen pozitif değer=3
+2024-05-18 12:55:37 - Kira fiyatı=3000
+2024-05-18 12:55:37 - Kira depozito=1000
+2024-05-18 13:03:29 - Doğru giriş girilen pozitif değer=4
+2024-05-18 13:03:29 - Kira fiyatı=3000
+2024-05-18 13:03:29 - Kira depozito=2000
+2024-05-18 13:03:29 - Emlak aktif durumu=True
+2024-05-18 13:03:29 - Ev yapım tarihi=2004
+2024-05-18 13:03:29 - Ev Yaşı=20
+2024-05-18 13:03:29 - Ev Yaşı=20
+2024-05-18 13:03:29 - Girilen semt=il=Denizliilçe= Bekillimahalle=anan
+2024-05-18 13:55:18 - Doğru giriş girilen pozitif değer=4
+2024-05-18 13:55:18 - Kira fiyatı=3000
+2024-05-18 13:55:18 - Kira depozito=1000
+2024-05-18 13:55:18 - Emlak aktif durumu=True
+2024-05-18 13:55:18 - Ev yapım tarihi=2002
+2024-05-18 13:55:18 - Ev Yaşı=22
+2024-05-18 13:55:18 - Ev Yaşı=22
+2024-05-18 13:55:18 - Girilen semt=il=Ankara, ilçe= Evren, mahalle=anan
+2024-05-18 13:55:18 - Evin Alanı =30
+2024-05-18 13:55:18 - Emlak numarası=1
+2024-05-18 13:55:29 - Girilen semt=il=Ankara, ilçe= Evren, mahalle=anan
+2024-05-18 13:55:29 - Ev Yaşı=22
+2024-05-18 13:55:29 - Doğru giriş girilen pozitif değer=4
+2024-05-18 14:01:26 - Doğru giriş girilen pozitif değer=4
+2024-05-18 14:01:26 - Kira fiyatı=10000
+2024-05-18 14:01:26 - Kira depozito=20000
+2024-05-18 14:01:26 - Emlak aktif durumu=True
+2024-05-18 14:01:26 - Ev yapım tarihi=2004
+2024-05-18 14:01:26 - Ev Yaşı=20
+2024-05-18 14:01:26 - Ev Yaşı=20
+2024-05-18 14:01:26 - Girilen semt=il=Ankara, ilçe= Keçiören, mahalle=kuşcağız mah solmaz sokak huzur apt 16/1
+2024-05-18 14:01:26 - Evin Alanı =100
+2024-05-18 14:01:26 - Emlak numarası=1
+2024-05-18 14:01:26 - Girilen kat numarası=-1
+2024-05-18 14:01:39 - Girilen semt=il=Ankara, ilçe= Keçiören, mahalle=kuşcağız mah solmaz sokak huzur apt 16/1
+2024-05-18 14:01:39 - Ev Yaşı=20
+2024-05-18 14:01:39 - Doğru giriş girilen pozitif değer=4
+2024-05-18 14:10:36 - Doğru giriş girilen pozitif değer=5
+2024-05-18 14:10:36 - Kira fiyatı=3000
+2024-05-18 14:10:36 - Kira depozito=2000
+2024-05-18 14:10:36 - Emlak aktif durumu=True
+2024-05-18 14:10:36 - Ev yapım tarihi=2005
+2024-05-18 14:10:36 - Ev Yaşı=19
+2024-05-18 14:10:36 - Ev Yaşı=19
+2024-05-18 14:10:36 - Girilen semt=il=Düzce, ilçe= Çilimli, mahalle=abab
+2024-05-18 14:10:36 - Evin Alanı =100
+2024-05-18 14:10:36 - Emlak numarası=2
+2024-05-18 14:10:36 - Girilen kat numarası=2
+2024-05-18 14:10:44 - Girilen semt=il=Düzce, ilçe= Çilimli, mahalle=abab
+2024-05-18 14:10:44 - Ev Yaşı=19
+2024-05-18 14:10:44 - Doğru giriş girilen pozitif değer=5
+2024-05-18 14:11:21 - Doğru giriş girilen pozitif değer=6
+2024-05-18 14:11:21 - Kira fiyatı=30000
+2024-05-18 14:11:21 - Kira depozito=20001
+2024-05-18 14:11:21 - Emlak aktif durumu=True
+2024-05-18 14:11:21 - Ev yapım tarihi=2009
+2024-05-18 14:11:21 - Ev Yaşı=15
+2024-05-18 14:11:21 - Ev Yaşı=15
+2024-05-18 14:11:21 - Girilen semt=il=Konya, ilçe= Taşkent, mahalle=abab
+2024-05-18 14:11:21 - Evin Alanı =90
+2024-05-18 14:11:21 - Emlak numarası=3
+2024-05-18 14:11:21 - Girilen kat numarası=-1
+2024-05-18 14:11:23 - Girilen semt=il=Konya, ilçe= Taşkent, mahalle=abab
+2024-05-18 14:11:23 - Ev Yaşı=15
+2024-05-18 14:11:23 - Doğru giriş girilen pozitif değer=6
+2024-05-18 14:14:25 - Doğru giriş girilen pozitif değer=4
+2024-05-18 14:14:25 - Kira fiyatı=2442
+2024-05-18 14:14:25 - Kira depozito=2323
+2024-05-18 14:14:25 - Emlak aktif durumu=True
+2024-05-18 14:14:25 - Ev yapım tarihi=2002
+2024-05-18 14:14:25 - Ev Yaşı=22
+2024-05-18 14:14:25 - Ev Yaşı=22
+2024-05-18 14:14:25 - Girilen semt=il=Muş, ilçe= Hasköy, mahalle=bab
+2024-05-18 14:14:25 - Evin Alanı =5
+2024-05-18 14:14:25 - Emlak numarası=5
+2024-05-18 14:14:25 - Girilen kat numarası=2
+2024-05-18 14:14:27 - Girilen semt=il=Muş, ilçe= Hasköy, mahalle=bab
+2024-05-18 14:14:27 - Ev Yaşı=22
+2024-05-18 14:14:27 - Doğru giriş girilen pozitif değer=4
+2024-05-18 14:14:42 - Doğru giriş girilen pozitif değer=5
+2024-05-18 14:14:42 - Kira fiyatı=24422
+2024-05-18 14:14:42 - Kira depozito=23232
+2024-05-18 14:14:42 - Emlak aktif durumu=True
+2024-05-18 14:14:42 - Ev yapım tarihi=2002
+2024-05-18 14:14:42 - Ev Yaşı=22
+2024-05-18 14:14:42 - Ev Yaşı=22
+2024-05-18 14:14:42 - Girilen semt=il=Muş, ilçe= Hasköy, mahalle=aaaa
+2024-05-18 14:14:42 - Evin Alanı =6
+2024-05-18 14:14:42 - Emlak numarası=6
+2024-05-18 14:14:42 - Girilen kat numarası=3
+2024-05-18 14:14:43 - Girilen semt=il=Muş, ilçe= Hasköy, mahalle=aaaa
+2024-05-18 14:14:43 - Ev Yaşı=22
+2024-05-18 14:14:43 - Doğru giriş girilen pozitif değer=5
+2024-05-18 16:02:09 - Doğru giriş girilen pozitif değer=2
+2024-05-18 16:02:09 - Kira fiyatı=3500
+2024-05-18 16:02:09 - Kira depozito=1500
+2024-05-18 16:02:09 - Emlak aktif durumu=True
+2024-05-18 16:02:09 - Ev yapım tarihi=2002
+2024-05-18 16:02:09 - Ev Yaşı=22
+2024-05-18 16:02:09 - Ev Yaşı=22
+2024-05-18 16:02:09 - Girilen semt=il=Bingöl, ilçe= Karlıova, mahalle=aaaaa
+2024-05-18 16:02:09 - Evin Alanı =100
+2024-05-18 16:02:09 - Emlak numarası=1
+2024-05-18 16:02:09 - Girilen kat numarası=1
+2024-05-18 16:02:26 - Girilen semt=il=Bingöl, ilçe= Karlıova, mahalle=aaaaa
+2024-05-18 16:02:26 - Ev Yaşı=22
+2024-05-18 16:02:26 - Doğru giriş girilen pozitif değer=2
+2024-05-18 16:02:45 - Doğru giriş girilen pozitif değer=3
+2024-05-18 16:02:45 - Kira fiyatı=35002
+2024-05-18 16:02:45 - Kira depozito=15002
+2024-05-18 16:02:45 - Emlak aktif durumu=True
+2024-05-18 16:02:45 - Ev yapım tarihi=2005
+2024-05-18 16:02:45 - Ev Yaşı=19
+2024-05-18 16:02:45 - Ev Yaşı=19
+2024-05-18 16:02:45 - Girilen semt=il=Karaman, ilçe= Başyayla, mahalle=aaaaa
+2024-05-18 16:02:45 - Evin Alanı =100
+2024-05-18 16:02:45 - Emlak numarası=2
+2024-05-18 16:02:45 - Girilen kat numarası=3
+2024-05-18 16:02:46 - Girilen semt=il=Karaman, ilçe= Başyayla, mahalle=aaaaa
+2024-05-18 16:02:46 - Ev Yaşı=19
+2024-05-18 16:02:46 - Doğru giriş girilen pozitif değer=3
+2024-05-18 16:05:33 - Doğru giriş girilen pozitif değer=2
+2024-05-18 16:05:33 - Kira fiyatı=2222
+2024-05-18 16:05:33 - Kira depozito=222
+2024-05-18 16:05:33 - Emlak aktif durumu=True
+2024-05-18 16:05:33 - Ev yapım tarihi=2005
+2024-05-18 16:05:33 - Ev Yaşı=19
+2024-05-18 16:05:33 - Ev Yaşı=19
+2024-05-18 16:05:33 - Girilen semt=il=Erzurum, ilçe= Uzundere, mahalle=asdasd
+2024-05-18 16:05:33 - Evin Alanı =5
+2024-05-18 16:05:33 - Emlak numarası=3
+2024-05-18 16:05:33 - Girilen kat numarası=-1
+2024-05-18 16:05:37 - Girilen semt=il=Erzurum, ilçe= Uzundere, mahalle=asdasd
+2024-05-18 16:05:37 - Ev Yaşı=19
+2024-05-18 16:05:37 - Doğru giriş girilen pozitif değer=2
+2024-05-18 16:06:01 - Doğru giriş girilen pozitif değer=3
+2024-05-18 16:06:01 - Kira fiyatı=4000
+2024-05-18 16:06:01 - Kira depozito=2220
+2024-05-18 16:06:01 - Emlak aktif durumu=True
+2024-05-18 16:06:01 - Ev yapım tarihi=2008
+2024-05-18 16:06:01 - Ev Yaşı=16
+2024-05-18 16:06:01 - Ev Yaşı=16
+2024-05-18 16:06:01 - Girilen semt=il=Muğla, ilçe= Datça, mahalle=asdasd
+2024-05-18 16:06:01 - Evin Alanı =900
+2024-05-18 16:06:01 - Emlak numarası=4
+2024-05-18 16:06:01 - Girilen kat numarası=2
+2024-05-18 16:06:02 - Girilen semt=il=Muğla, ilçe= Datça, mahalle=asdasd
+2024-05-18 16:06:02 - Ev Yaşı=16
+2024-05-18 16:06:02 - Doğru giriş girilen pozitif değer=3
+2024-05-18 16:07:00 - Doğru giriş girilen pozitif değer=4
+2024-05-18 16:08:20 - Doğru giriş girilen pozitif değer=1
+2024-05-18 16:08:20 - Satılık ev fiyatı=123123
+2024-05-18 16:08:20 - Emlak aktif durumu=True
+2024-05-18 16:08:20 - Ev yapım tarihi=2023
+2024-05-18 16:08:20 - Ev Yaşı=1
+2024-05-18 16:08:20 - Ev Yaşı=1
+2024-05-18 16:08:20 - Girilen semt=il=Muğla, ilçe= Datça, mahalle=asdasd
+2024-05-18 16:08:20 - Evin Alanı =2
+2024-05-18 16:08:20 - Emlak numarası=1
+2024-05-18 16:08:35 - Girilen semt=il=Muğla, ilçe= Datça, mahalle=asdasd
+2024-05-18 16:08:35 - Ev Yaşı=1
+2024-05-18 16:08:35 - Doğru giriş girilen pozitif değer=1
+2024-05-18 16:08:43 - Doğru giriş girilen pozitif değer=3
+2024-05-18 16:08:43 - Satılık ev fiyatı=1231232
+2024-05-18 16:08:43 - Emlak aktif durumu=True
+2024-05-18 16:08:43 - Ev yapım tarihi=2023
+2024-05-18 16:08:43 - Ev Yaşı=1
+2024-05-18 16:08:43 - Ev Yaşı=1
+2024-05-18 16:08:43 - Girilen semt=il=Muğla, ilçe= Datça, mahalle=asdasd
+2024-05-18 16:08:43 - Evin Alanı =2
+2024-05-18 16:08:43 - Emlak numarası=2
+2024-05-18 16:08:45 - Girilen semt=il=Muğla, ilçe= Datça, mahalle=asdasd
+2024-05-18 16:08:45 - Ev Yaşı=1
+2024-05-18 16:08:45 - Doğru giriş girilen pozitif değer=3
+2024-05-18 16:10:44 - Doğru giriş girilen pozitif değer=1
+2024-05-18 16:10:44 - Satılık ev fiyatı=22222
+2024-05-18 16:10:44 - Girilen kat numarası=3
+2024-05-18 16:10:44 - Emlak aktif durumu=True
+2024-05-18 16:10:44 - Ev yapım tarihi=2002
+2024-05-18 16:10:44 - Ev Yaşı=22
+2024-05-18 16:10:44 - Ev Yaşı=22
+2024-05-18 16:10:44 - Girilen semt=il=Erzurum, ilçe= Çat, mahalle=asd
+2024-05-18 16:10:44 - Evin Alanı =100
+2024-05-18 16:10:44 - Emlak numarası=1
+2024-05-18 16:10:55 - Girilen semt=il=Erzurum, ilçe= Çat, mahalle=asd
+2024-05-18 16:10:55 - Ev Yaşı=22
+2024-05-18 16:10:55 - Doğru giriş girilen pozitif değer=1
+2024-05-18 16:10:59 - Doğru giriş girilen pozitif değer=1
+2024-05-18 16:10:59 - Satılık ev fiyatı=22222
+2024-05-18 16:10:59 - Girilen kat numarası=3
+2024-05-18 16:10:59 - Emlak aktif durumu=True
+2024-05-18 16:10:59 - Ev yapım tarihi=2002
+2024-05-18 16:10:59 - Ev Yaşı=22
+2024-05-18 16:10:59 - Ev Yaşı=22
+2024-05-18 16:10:59 - Girilen semt=il=Erzurum, ilçe= Çat, mahalle=asd
+2024-05-18 16:10:59 - Evin Alanı =100
+2024-05-18 16:10:59 - Emlak numarası=2
+2024-05-18 16:11:00 - Girilen semt=il=Erzurum, ilçe= Çat, mahalle=asd
+2024-05-18 16:11:00 - Ev Yaşı=22
+2024-05-18 16:11:00 - Doğru giriş girilen pozitif değer=1
+2024-05-18 16:27:05 - Doğru giriş girilen pozitif değer=3
+2024-05-18 16:27:05 - Kira fiyatı=20000
+2024-05-18 16:27:05 - Kira depozito=10000
+2024-05-18 16:27:05 - Emlak aktif durumu=True
+2024-05-18 16:27:05 - Ev yapım tarihi=2005
+2024-05-18 16:27:05 - Ev Yaşı=19
+2024-05-18 16:27:05 - Ev Yaşı=19
+2024-05-18 16:27:05 - Girilen semt=il=Elazığ, ilçe= Baskil, mahalle=asd
+2024-05-18 16:27:05 - Evin Alanı =100
+2024-05-18 16:27:05 - Emlak numarası=1
+2024-05-18 16:27:05 - Girilen kat numarası=-1
+2024-05-18 16:27:21 - Girilen semt=il=Elazığ, ilçe= Baskil, mahalle=asd
+2024-05-18 16:27:21 - Ev Yaşı=19
+2024-05-18 16:27:21 - Doğru giriş girilen pozitif değer=3
+2024-05-18 16:27:45 - Doğru giriş girilen pozitif değer=6
+2024-05-18 16:27:45 - Kira fiyatı=30000
+2024-05-18 16:27:45 - Kira depozito=20000
+2024-05-18 16:27:45 - Emlak aktif durumu=True
+2024-05-18 16:27:45 - Ev yapım tarihi=2014
+2024-05-18 16:27:45 - Ev Yaşı=10
+2024-05-18 16:27:45 - Ev Yaşı=10
+2024-05-18 16:27:45 - Girilen semt=il=Konya, ilçe= Taşkent, mahalle=asdasd
+2024-05-18 16:27:45 - Evin Alanı =110
+2024-05-18 16:27:45 - Emlak numarası=2
+2024-05-18 16:27:45 - Girilen kat numarası=3
+2024-05-18 16:27:48 - Girilen semt=il=Konya, ilçe= Taşkent, mahalle=asdasd
+2024-05-18 16:27:48 - Ev Yaşı=10
+2024-05-18 16:27:48 - Doğru giriş girilen pozitif değer=6
+2024-05-18 16:32:46 - Doğru giriş girilen pozitif değer=2
+2024-05-18 16:32:46 - Satılık ev fiyatı=121212
+2024-05-18 16:32:46 - Girilen kat numarası=3
+2024-05-18 16:32:46 - Emlak aktif durumu=True
+2024-05-18 16:32:46 - Ev yapım tarihi=2002
+2024-05-18 16:32:46 - Ev Yaşı=22
+2024-05-18 16:32:46 - Ev Yaşı=22
+2024-05-18 16:32:46 - Girilen semt=il=Erzincan, ilçe= Kemah, mahalle=asd
+2024-05-18 16:32:46 - Evin Alanı =5
+2024-05-18 16:32:46 - Emlak numarası=1
+2024-05-18 16:32:52 - Girilen semt=il=Erzincan, ilçe= Kemah, mahalle=asd
+2024-05-18 16:32:52 - Ev Yaşı=22
+2024-05-18 16:32:52 - Doğru giriş girilen pozitif değer=2
+2024-05-18 16:33:19 - Doğru giriş girilen pozitif değer=4
+2024-05-18 16:33:19 - Satılık ev fiyatı=1212122
+2024-05-18 16:33:19 - Girilen kat numarası=5
+2024-05-18 16:33:19 - Emlak aktif durumu=True
+2024-05-18 16:33:19 - Ev yapım tarihi=2022
+2024-05-18 16:33:19 - Ev Yaşı=2
+2024-05-18 16:33:19 - Ev Yaşı=2
+2024-05-18 16:33:19 - Girilen semt=il=Mersin, ilçe= Bozyazı, mahalle=asda
+2024-05-18 16:33:19 - Evin Alanı =42
+2024-05-18 16:33:19 - Emlak numarası=2
+2024-05-18 16:33:21 - Girilen semt=il=Mersin, ilçe= Bozyazı, mahalle=asda
+2024-05-18 16:33:21 - Ev Yaşı=2
+2024-05-18 16:33:21 - Doğru giriş girilen pozitif değer=4
+2024-05-18 16:34:17 - Doğru giriş girilen pozitif değer=1
+2024-05-18 16:34:17 - Satılık ev fiyatı=22222
+2024-05-18 16:34:17 - Girilen kat numarası=2
+2024-05-18 16:34:17 - Emlak aktif durumu=True
+2024-05-18 16:34:17 - Ev yapım tarihi=2023
+2024-05-18 16:34:17 - Ev Yaşı=1
+2024-05-18 16:34:17 - Ev Yaşı=1
+2024-05-18 16:34:17 - Girilen semt=il=Hakkari, ilçe= Derecik, mahalle=asdasd
+2024-05-18 16:34:17 - Evin Alanı =3
+2024-05-18 16:34:17 - Emlak numarası=1
+2024-05-18 16:34:18 - Girilen semt=il=Hakkari, ilçe= Derecik, mahalle=asdasd
+2024-05-18 16:34:18 - Ev Yaşı=1
+2024-05-18 16:34:18 - Doğru giriş girilen pozitif değer=1
+2024-05-18 16:34:34 - Doğru giriş girilen pozitif değer=3
+2024-05-18 16:34:34 - Satılık ev fiyatı=2222223
+2024-05-18 16:34:34 - Girilen kat numarası=5
+2024-05-18 16:34:34 - Emlak aktif durumu=True
+2024-05-18 16:34:34 - Ev yapım tarihi=2023
+2024-05-18 16:34:34 - Ev Yaşı=1
+2024-05-18 16:34:34 - Ev Yaşı=1
+2024-05-18 16:34:34 - Girilen semt=il=Osmaniye, ilçe= Kadirli, mahalle=asdasda
+2024-05-18 16:34:34 - Evin Alanı =622
+2024-05-18 16:34:34 - Emlak numarası=2
+2024-05-18 16:34:36 - Girilen semt=il=Osmaniye, ilçe= Kadirli, mahalle=asdasda
+2024-05-18 16:34:36 - Ev Yaşı=1
+2024-05-18 16:34:36 - Doğru giriş girilen pozitif değer=3
+2024-05-18 16:35:18 - Doğru giriş girilen pozitif değer=3
+2024-05-18 16:35:18 - Kira fiyatı=20000
+2024-05-18 16:35:18 - Kira depozito=2222
+2024-05-18 16:35:18 - Emlak aktif durumu=True
+2024-05-18 16:35:18 - Ev yapım tarihi=2023
+2024-05-18 16:35:18 - Ev Yaşı=1
+2024-05-18 16:35:18 - Ev Yaşı=1
+2024-05-18 16:35:18 - Girilen semt=il=Eskişehir, ilçe= Çifteler, mahalle=asd
+2024-05-18 16:35:18 - Evin Alanı =122
+2024-05-18 16:35:18 - Emlak numarası=1
+2024-05-18 16:35:18 - Girilen kat numarası=1
+2024-05-18 16:35:19 - Girilen semt=il=Eskişehir, ilçe= Çifteler, mahalle=asd
+2024-05-18 16:35:19 - Ev Yaşı=1
+2024-05-18 16:35:19 - Doğru giriş girilen pozitif değer=3
+2024-05-18 16:35:36 - Doğru giriş girilen pozitif değer=5
+2024-05-18 16:35:36 - Kira fiyatı=200002
+2024-05-18 16:35:36 - Kira depozito=22222
+2024-05-18 16:35:36 - Emlak aktif durumu=True
+2024-05-18 16:35:36 - Ev yapım tarihi=2021
+2024-05-18 16:35:36 - Ev Yaşı=3
+2024-05-18 16:35:36 - Ev Yaşı=3
+2024-05-18 16:35:36 - Girilen semt=il=Muş, ilçe= Korkut, mahalle=asdasd
+2024-05-18 16:35:36 - Evin Alanı =126
+2024-05-18 16:35:36 - Emlak numarası=2
+2024-05-18 16:35:36 - Girilen kat numarası=-2
+2024-05-18 16:35:36 - Girilen semt=il=Muş, ilçe= Korkut, mahalle=asdasd
+2024-05-18 16:35:36 - Ev Yaşı=3
+2024-05-18 16:35:36 - Doğru giriş girilen pozitif değer=5
+2024-05-18 16:37:40 - Doğru giriş girilen pozitif değer=3
+2024-05-18 16:37:40 - Kira fiyatı=222222
+2024-05-18 16:37:40 - Kira depozito=2222
+2024-05-18 16:37:40 - Emlak aktif durumu=True
+2024-05-18 16:37:40 - Ev yapım tarihi=2002
+2024-05-18 16:37:40 - Ev Yaşı=22
+2024-05-18 16:37:40 - Ev Yaşı=22
+2024-05-18 16:37:40 - Girilen semt=il=Bitlis, ilçe= Güroymak, mahalle=asd
+2024-05-18 16:37:40 - Evin Alanı =9
+2024-05-18 16:37:40 - Emlak numarası=1
+2024-05-18 16:37:40 - Girilen kat numarası=-1
+2024-05-18 16:37:43 - Girilen semt=il=Bitlis, ilçe= Güroymak, mahalle=asd
+2024-05-18 16:37:43 - Ev Yaşı=22
+2024-05-18 16:37:43 - Doğru giriş girilen pozitif değer=3
+2024-05-18 16:38:03 - Doğru giriş girilen pozitif değer=5
+2024-05-18 16:38:03 - Kira fiyatı=2222222
+2024-05-18 16:38:03 - Kira depozito=22220
+2024-05-18 16:38:03 - Emlak aktif durumu=True
+2024-05-18 16:38:03 - Ev yapım tarihi=2009
+2024-05-18 16:38:03 - Ev Yaşı=15
+2024-05-18 16:38:03 - Ev Yaşı=15
+2024-05-18 16:38:03 - Girilen semt=il=İstanbul, ilçe= Kadıköy, mahalle=asdasd
+2024-05-18 16:38:03 - Evin Alanı =12
+2024-05-18 16:38:03 - Emlak numarası=2
+2024-05-18 16:38:03 - Girilen kat numarası=1
+2024-05-18 16:38:04 - Girilen semt=il=İstanbul, ilçe= Kadıköy, mahalle=asdasd
+2024-05-18 16:38:04 - Ev Yaşı=15
+2024-05-18 16:38:04 - Doğru giriş girilen pozitif değer=5
+2024-05-18 17:05:01 - Doğru giriş girilen pozitif değer=4
+2024-05-18 17:05:01 - Kira fiyatı=1441
+2024-05-18 17:05:01 - Kira depozito=111
+2024-05-18 17:05:01 - Emlak aktif durumu=True
+2024-05-18 17:05:01 - Ev yapım tarihi=2009
+2024-05-18 17:05:01 - Ev Yaşı=15
+2024-05-18 17:05:01 - Ev Yaşı=15
+2024-05-18 17:05:01 - Girilen semt=il=Elazığ, ilçe= Arıcak, mahalle=asdasd
+2024-05-18 17:05:01 - Evin Alanı =4
+2024-05-18 17:05:01 - Emlak numarası=1
+2024-05-18 17:05:01 - Girilen kat numarası=4
+2024-05-18 17:05:04 - Girilen semt=il=Elazığ, ilçe= Arıcak, mahalle=asdasd
+2024-05-18 17:05:04 - Ev Yaşı=15
+2024-05-18 17:05:04 - Doğru giriş girilen pozitif değer=4
+2024-05-18 17:05:09 - Doğru giriş girilen pozitif değer=5
+2024-05-18 17:05:09 - Kira fiyatı=1441
+2024-05-18 17:05:09 - Kira depozito=111
+2024-05-18 17:05:09 - Emlak aktif durumu=True
+2024-05-18 17:05:09 - Ev yapım tarihi=2009
+2024-05-18 17:05:09 - Ev Yaşı=15
+2024-05-18 17:05:09 - Ev Yaşı=15
+2024-05-18 17:05:09 - Girilen semt=il=Elazığ, ilçe= Arıcak, mahalle=asdasd
+2024-05-18 17:05:09 - Evin Alanı =4
+2024-05-18 17:05:09 - Emlak numarası=1
+2024-05-18 17:05:09 - Girilen kat numarası=4
+2024-05-18 17:05:10 - Girilen semt=il=Elazığ, ilçe= Arıcak, mahalle=asdasd
+2024-05-18 17:05:10 - Ev Yaşı=15
+2024-05-18 17:05:10 - Doğru giriş girilen pozitif değer=5
+2024-05-18 17:18:13 - Doğru giriş girilen pozitif değer=4
+2024-05-18 17:18:13 - Kira fiyatı=112121
+2024-05-18 17:18:13 - Kira depozito=2121
+2024-05-18 17:18:13 - Emlak aktif durumu=True
+2024-05-18 17:18:13 - Ev yapım tarihi=2002
+2024-05-18 17:18:13 - Ev Yaşı=22
+2024-05-18 17:18:13 - Ev Yaşı=22
+2024-05-18 17:18:13 - Girilen semt=il=Ankara, ilçe= Bala, mahalle=asdasd
+2024-05-18 17:18:13 - Evin Alanı =100
+2024-05-18 17:18:13 - Emlak numarası=1
+2024-05-18 17:18:13 - Girilen kat numarası=10
+2024-05-18 17:18:16 - Girilen semt=il=Ankara, ilçe= Bala, mahalle=asdasd
+2024-05-18 17:18:16 - Ev Yaşı=22
+2024-05-18 17:18:16 - Doğru giriş girilen pozitif değer=4
+2024-05-18 17:24:07 - Doğru giriş girilen pozitif değer=4
+2024-05-18 17:24:07 - Kira fiyatı=123123
+2024-05-18 17:24:07 - Kira depozito=123123
+2024-05-18 17:24:07 - Emlak aktif durumu=True
+2024-05-18 17:24:07 - Ev yapım tarihi=2003
+2024-05-18 17:24:07 - Ev Yaşı=21
+2024-05-18 17:24:07 - Ev Yaşı=21
+2024-05-18 17:24:07 - Girilen semt=il=Balıkesir, ilçe= Erdek, mahalle=asdasd
+2024-05-18 17:24:07 - Evin Alanı =8
+2024-05-18 17:24:07 - Emlak numarası=1
+2024-05-18 17:24:07 - Girilen kat numarası=3
+2024-05-18 17:24:09 - Girilen semt=il=Balıkesir, ilçe= Erdek, mahalle=asdasd
+2024-05-18 17:24:09 - Ev Yaşı=21
+2024-05-18 17:24:09 - Doğru giriş girilen pozitif değer=4
+2024-05-18 17:36:38 - Doğru giriş girilen pozitif değer=1
+2024-05-18 17:36:38 - Kira fiyatı=15000
+2024-05-18 17:36:38 - Kira depozito=1555
+2024-05-18 17:36:38 - Emlak aktif durumu=True
+2024-05-18 17:36:38 - Ev yapım tarihi=2023
+2024-05-18 17:36:38 - Ev Yaşı=1
+2024-05-18 17:36:38 - Ev Yaşı=1
+2024-05-18 17:36:38 - Girilen semt=il=Ankara, ilçe= Beypazarı, mahalle=asdasd
+2024-05-18 17:36:38 - Evin Alanı =32
+2024-05-18 17:36:46 - Doğru giriş girilen pozitif değer=1
+2024-05-18 17:36:46 - Kira fiyatı=15000
+2024-05-18 17:36:46 - Kira depozito=1555
+2024-05-18 17:36:46 - Emlak aktif durumu=True
+2024-05-18 17:36:46 - Ev yapım tarihi=2023
+2024-05-18 17:36:46 - Ev Yaşı=1
+2024-05-18 17:36:46 - Ev Yaşı=1
+2024-05-18 17:36:46 - Girilen semt=il=Ankara, ilçe= Beypazarı, mahalle=asdasd
+2024-05-18 17:36:46 - Evin Alanı =32
+2024-05-18 18:04:39 - Doğru giriş girilen pozitif değer=1
+2024-05-18 20:56:44 - Doğru giriş girilen pozitif değer=3
+2024-05-18 20:59:23 - Doğru giriş girilen pozitif değer=4
+2024-05-18 21:12:33 - Doğru giriş girilen pozitif değer=1
+2024-05-18 21:12:33 - Kira fiyatı=15000
+2024-05-18 21:12:33 - Kira depozito=2500
+2024-05-18 21:12:33 - Emlak aktif durumu=True
+2024-05-18 21:12:33 - Ev yapım tarihi=2005
+2024-05-18 21:12:33 - Ev Yaşı=19
+2024-05-18 21:12:33 - Ev Yaşı=19
+2024-05-18 21:12:33 - Girilen semt=il=Antalya, ilçe= Demre, mahalle=asdasdasd
+2024-05-18 21:12:33 - Evin Alanı =3
+2024-05-18 21:12:33 - Emlak numarası=3
+2024-05-18 21:12:33 - Girilen kat numarası=2
+2024-05-18 21:17:29 - Doğru giriş girilen pozitif değer=1
+2024-05-18 21:17:29 - Satılık ev fiyatı=20000
+2024-05-18 21:17:29 - Girilen kat numarası=1
+2024-05-18 21:17:29 - Emlak aktif durumu=True
+2024-05-18 21:17:29 - Ev yapım tarihi=2005
+2024-05-18 21:17:29 - Ev Yaşı=19
+2024-05-18 21:17:29 - Ev Yaşı=19
+2024-05-18 21:17:29 - Girilen semt=il=Bartın, ilçe= Merkez, mahalle=asdasd
+2024-05-18 21:17:29 - Evin Alanı =1
+2024-05-18 21:17:29 - Emlak numarası=1
+2024-05-19 11:39:52 - Doğru giriş girilen pozitif değer=4
+2024-05-19 11:39:52 - Kira fiyatı=15000
+2024-05-19 11:39:52 - Kira depozito=2000
+2024-05-19 11:39:52 - Emlak aktif durumu=True
+2024-05-19 11:39:52 - Ev yapım tarihi=2009
+2024-05-19 11:39:52 - Ev Yaşı=15
+2024-05-19 11:39:52 - Ev Yaşı=15
+2024-05-19 11:39:52 - Girilen semt=il=Amasya, ilçe= Suluova, mahalle=aaa
+2024-05-19 11:39:52 - Evin Alanı =125
+2024-05-19 11:39:52 - Emlak numarası=3
+2024-05-19 11:39:52 - Girilen kat numarası=1
+2024-05-19 11:41:20 - Doğru giriş girilen pozitif değer=3
+2024-05-19 11:41:20 - Kira fiyatı=232323
+2024-05-19 11:41:20 - Kira depozito=2222
+2024-05-19 11:41:20 - Emlak aktif durumu=True
+2024-05-19 11:41:20 - Ev yapım tarihi=2009
+2024-05-19 11:41:20 - Ev Yaşı=15
+2024-05-19 11:41:20 - Ev Yaşı=15
+2024-05-19 11:41:20 - Girilen semt=il=Ankara, ilçe= Çankaya, mahalle=asdasd
+2024-05-19 11:41:20 - Evin Alanı =8
+2024-05-19 11:41:20 - Emlak numarası=4
+2024-05-19 11:41:20 - Girilen kat numarası=3
+2024-05-19 11:45:18 - Doğru giriş girilen pozitif değer=4
+2024-05-19 11:45:18 - Kira fiyatı=23232323
+2024-05-19 11:45:18 - Kira depozito=2222
+2024-05-19 11:45:18 - Emlak aktif durumu=True
+2024-05-19 11:45:18 - Ev yapım tarihi=2009
+2024-05-19 11:45:18 - Ev Yaşı=15
+2024-05-19 11:45:18 - Ev Yaşı=15
+2024-05-19 11:45:18 - Girilen semt=il=Ankara, ilçe= Beypazarı, mahalle=asdasd
+2024-05-19 11:45:18 - Evin Alanı =4
+2024-05-19 11:45:18 - Emlak numarası=5
+2024-05-19 11:45:18 - Girilen kat numarası=-2
+2024-05-19 11:45:39 - Doğru giriş girilen pozitif değer=6
+2024-05-19 11:45:39 - Kira fiyatı=99999
+2024-05-19 11:45:39 - Kira depozito=8888
+2024-05-19 11:45:39 - Emlak aktif durumu=True
+2024-05-19 11:45:39 - Ev yapım tarihi=2019
+2024-05-19 11:45:39 - Ev Yaşı=5
+2024-05-19 11:45:39 - Ev Yaşı=5
+2024-05-19 11:45:39 - Girilen semt=il=Balıkesir, ilçe= Bigadiç, mahalle=hggjhj
+2024-05-19 11:45:39 - Evin Alanı =78
+2024-05-19 11:45:39 - Emlak numarası=6
+2024-05-19 11:45:39 - Girilen kat numarası=1
+2024-05-19 11:46:26 - Doğru giriş girilen pozitif değer=4
+2024-05-19 11:46:26 - Satılık ev fiyatı=23232323
+2024-05-19 11:46:26 - Girilen kat numarası=1
+2024-05-19 11:46:26 - Emlak aktif durumu=True
+2024-05-19 11:46:26 - Ev yapım tarihi=2009
+2024-05-19 11:46:26 - Ev Yaşı=15
+2024-05-19 11:46:26 - Ev Yaşı=15
+2024-05-19 11:46:26 - Girilen semt=il=Ağrı, ilçe= Hamur, mahalle=asd
+2024-05-19 11:46:26 - Evin Alanı =12
+2024-05-19 11:46:26 - Emlak numarası=2
+2024-05-19 11:48:05 - Doğru giriş girilen pozitif değer=3
+2024-05-19 11:48:05 - Satılık ev fiyatı=23232323
+2024-05-19 11:48:05 - Girilen kat numarası=12
+2024-05-19 11:48:05 - Emlak aktif durumu=True
+2024-05-19 11:48:05 - Ev yapım tarihi=2009
+2024-05-19 11:48:05 - Ev Yaşı=15
+2024-05-19 11:48:05 - Ev Yaşı=15
+2024-05-19 11:48:05 - Girilen semt=il=Artvin, ilçe= Kemalpaşa, mahalle=sadads
+2024-05-19 11:48:05 - Evin Alanı =122
+2024-05-19 11:48:05 - Emlak numarası=3
+2024-05-19 11:49:49 - Doğru giriş girilen pozitif değer=23
+2024-05-19 11:49:49 - Satılık ev fiyatı=2000000
+2024-05-19 11:49:49 - Girilen kat numarası=3
+2024-05-19 11:49:49 - Emlak aktif durumu=True
+2024-05-19 11:49:49 - Ev yapım tarihi=2009
+2024-05-19 11:49:49 - Ev Yaşı=15
+2024-05-19 11:49:49 - Ev Yaşı=15
+2024-05-19 11:49:49 - Girilen semt=il=Ankara, ilçe= Beypazarı, mahalle=asdasd
+2024-05-19 11:49:49 - Evin Alanı =122
+2024-05-19 11:49:49 - Emlak numarası=4
+2024-05-19 11:50:07 - Doğru giriş girilen pozitif değer=1
+2024-05-19 11:50:07 - Satılık ev fiyatı=29999
+2024-05-19 11:50:07 - Girilen kat numarası=1
+2024-05-19 11:50:07 - Emlak aktif durumu=True
+2024-05-19 11:50:07 - Ev yapım tarihi=2009
+2024-05-19 11:50:07 - Ev Yaşı=15
+2024-05-19 11:50:07 - Ev Yaşı=15
+2024-05-19 11:50:07 - Girilen semt=il=Bayburt, ilçe= Merkez, mahalle=sadasd
+2024-05-19 11:50:07 - Evin Alanı =32
+2024-05-19 11:50:07 - Emlak numarası=5
+2024-05-19 13:26:33 - Doğru giriş girilen pozitif değer=4
+2024-05-19 13:26:33 - Kira fiyatı=2312313
+2024-05-19 13:26:33 - Kira depozito=111
+2024-05-19 13:26:33 - Emlak aktif durumu=True
+2024-05-19 13:26:33 - Ev yapım tarihi=2009
+2024-05-19 13:26:33 - Ev Yaşı=15
+2024-05-19 13:26:33 - Ev Yaşı=15
+2024-05-19 13:26:33 - Girilen semt=il=Amasya, ilçe= Hamamözü, mahalle=asdasd
+2024-05-19 13:26:33 - Evin Alanı =5
+2024-05-19 13:26:33 - Emlak numarası=7
+2024-05-19 13:26:33 - Girilen kat numarası=2
+2024-05-19 13:26:51 - Doğru giriş girilen pozitif değer=5
+2024-05-19 13:26:51 - Kira fiyatı=2323231
+2024-05-19 13:26:51 - Kira depozito=123123
+2024-05-19 13:26:51 - Emlak aktif durumu=True
+2024-05-19 13:26:51 - Ev yapım tarihi=2018
+2024-05-19 13:26:51 - Ev Yaşı=6
+2024-05-19 13:26:51 - Ev Yaşı=6
+2024-05-19 13:26:51 - Girilen semt=il=Aydın, ilçe= Efeler, mahalle=asdasd
+2024-05-19 13:26:51 - Evin Alanı =122
+2024-05-19 13:26:51 - Emlak numarası=8
+2024-05-19 13:26:51 - Girilen kat numarası=4
+2024-05-20 14:54:24 - Doğru giriş girilen pozitif değer=3
+2024-05-20 14:54:24 - Kira fiyatı=14525125
+2024-05-20 14:54:24 - Kira depozito=2112
+2024-05-20 14:54:24 - Emlak aktif durumu=True
+2024-05-20 14:54:24 - Ev yapım tarihi=2024
+2024-05-20 14:54:24 - Ev Yaşı=0
+2024-05-20 14:54:24 - Ev Yaşı=0
+2024-05-20 14:54:24 - Girilen semt=il=Amasya, ilçe= Merkez, mahalle=asdasd
+2024-05-20 14:54:24 - Evin Alanı =322
+2024-05-20 14:54:24 - Emlak numarası=3
+2024-05-20 14:54:24 - Girilen kat numarası=3
+2024-05-20 14:54:43 - Doğru giriş girilen pozitif değer=4
+2024-05-20 14:54:43 - Kira fiyatı=324234
+2024-05-20 14:54:43 - Kira depozito=234234
+2024-05-20 14:54:43 - Emlak aktif durumu=True
+2024-05-20 14:54:43 - Ev yapım tarihi=2009
+2024-05-20 14:54:43 - Ev Yaşı=15
+2024-05-20 14:54:43 - Ev Yaşı=15
+2024-05-20 14:54:43 - Girilen semt=il=Balıkesir, ilçe= Bigadiç, mahalle=asdasd
+2024-05-20 14:54:43 - Evin Alanı =5
+2024-05-20 14:54:43 - Emlak numarası=4
+2024-05-20 14:54:43 - Girilen kat numarası=5
+2024-05-20 14:55:22 - Doğru giriş girilen pozitif değer=6
+2024-05-20 14:55:22 - Kira fiyatı=2334243
+2024-05-20 14:55:22 - Kira depozito=2222
+2024-05-20 14:55:22 - Emlak aktif durumu=True
+2024-05-20 14:55:22 - Ev yapım tarihi=2023
+2024-05-20 14:55:22 - Ev Yaşı=1
+2024-05-20 14:55:22 - Ev Yaşı=1
+2024-05-20 14:55:22 - Girilen semt=il=Bartın, ilçe= Ulus, mahalle=asdasd
+2024-05-20 14:55:22 - Evin Alanı =122
+2024-05-20 14:55:22 - Emlak numarası=5
+2024-05-20 14:55:22 - Girilen kat numarası=12
+2024-05-20 14:58:41 - Doğru giriş girilen pozitif değer=5
+2024-05-20 14:58:41 - Kira fiyatı=25000
+2024-05-20 14:58:41 - Kira depozito=2500
+2024-05-20 14:58:41 - Emlak aktif durumu=True
+2024-05-20 14:58:41 - Ev yapım tarihi=2009
+2024-05-20 14:58:41 - Ev Yaşı=15
+2024-05-20 14:58:41 - Ev Yaşı=15
+2024-05-20 14:58:41 - Girilen semt=il=Afyonkarahisar, ilçe= Çay, mahalle=asdasd
+2024-05-20 14:58:41 - Evin Alanı =125
+2024-05-20 14:58:41 - Emlak numarası=1
+2024-05-20 14:58:41 - Girilen kat numarası=4
+2024-05-20 15:00:55 - Doğru giriş girilen pozitif değer=5
+2024-05-20 15:00:55 - Kira fiyatı=2131231
+2024-05-20 15:00:55 - Kira depozito=1111
+2024-05-20 15:00:55 - Emlak aktif durumu=True
+2024-05-20 15:00:55 - Ev yapım tarihi=2015
+2024-05-20 15:00:55 - Ev Yaşı=9
+2024-05-20 15:00:55 - Ev Yaşı=9
+2024-05-20 15:00:55 - Girilen semt=il=Adana, ilçe= Kozan, mahalle=sadasds
+2024-05-20 15:00:55 - Evin Alanı =123
+2024-05-20 15:00:55 - Emlak numarası=2
+2024-05-20 15:00:55 - Girilen kat numarası=12
+2024-05-20 15:10:08 - Doğru giriş girilen pozitif değer=4
+2024-05-20 15:10:08 - Kira fiyatı=232323
+2024-05-20 15:10:08 - Kira depozito=232323
+2024-05-20 15:10:08 - Emlak aktif durumu=True
+2024-05-20 15:10:08 - Ev yapım tarihi=2009
+2024-05-20 15:10:08 - Ev Yaşı=15
+2024-05-20 15:10:08 - Ev Yaşı=15
+2024-05-20 15:10:08 - Girilen semt=il=Antalya, ilçe= Döşemealtı, mahalle=asadasd
+2024-05-20 15:10:08 - Evin Alanı =4
+2024-05-20 15:10:08 - Emlak numarası=3
+2024-05-20 15:10:08 - Girilen kat numarası=11
+2024-05-22 17:06:14 - Doğru giriş girilen pozitif değer=4
+2024-05-22 17:06:14 - Kira fiyatı=25000
+2024-05-22 17:06:14 - Kira depozito=15000
+2024-05-22 17:06:14 - Emlak aktif durumu=True
+2024-05-22 17:06:14 - Ev yapım tarihi=2009
+2024-05-22 17:06:14 - Ev Yaşı=15
+2024-05-22 17:06:14 - Ev Yaşı=15
+2024-05-22 17:06:14 - Girilen semt=il=Amasya, ilçe= Hamamözü, mahalle=asdads
+2024-05-22 17:06:14 - Evin Alanı =125
+2024-05-22 17:06:14 - Emlak numarası=1
+2024-05-22 17:06:14 - Girilen kat numarası=5
+2024-05-22 17:06:35 - Doğru giriş girilen pozitif değer=3
+2024-05-22 17:06:35 - Kira fiyatı=18000
+2024-05-22 17:06:35 - Kira depozito=2000
+2024-05-22 17:06:35 - Emlak aktif durumu=True
+2024-05-22 17:06:35 - Ev yapım tarihi=1999
+2024-05-22 17:06:35 - Ev Yaşı=25
+2024-05-22 17:06:35 - Ev Yaşı=25
+2024-05-22 17:06:35 - Girilen semt=il=Bartın, ilçe= Kurucaşile, mahalle=asaasas
+2024-05-22 17:06:35 - Evin Alanı =12
+2024-05-22 17:06:35 - Emlak numarası=2
+2024-05-22 17:06:35 - Girilen kat numarası=-2
+2024-05-22 17:07:02 - Doğru giriş girilen pozitif değer=5
+2024-05-22 17:07:02 - Kira fiyatı=155555
+2024-05-22 17:07:02 - Kira depozito=2000
+2024-05-22 17:07:02 - Emlak aktif durumu=True
+2024-05-22 17:07:02 - Ev yapım tarihi=2023
+2024-05-22 17:07:02 - Ev Yaşı=1
+2024-05-22 17:07:02 - Ev Yaşı=1
+2024-05-22 17:07:02 - Girilen semt=il=Afyonkarahisar, ilçe= Çay, mahalle=aaaa
+2024-05-22 17:07:02 - Evin Alanı =6
+2024-05-22 17:07:02 - Emlak numarası=3
+2024-05-22 17:07:02 - Girilen kat numarası=5
+2024-05-22 17:07:22 - Doğru giriş girilen pozitif değer=5
+2024-05-22 17:07:22 - Satılık ev fiyatı=250000
+2024-05-22 17:07:22 - Girilen kat numarası=11
+2024-05-22 17:07:22 - Emlak aktif durumu=True
+2024-05-22 17:07:22 - Ev yapım tarihi=2000
+2024-05-22 17:07:22 - Ev Yaşı=24
+2024-05-22 17:07:22 - Ev Yaşı=24
+2024-05-22 17:07:22 - Girilen semt=il=Ankara, ilçe= Güdül, mahalle=asdasd
+2024-05-22 17:07:22 - Evin Alanı =125
+2024-05-22 17:07:22 - Emlak numarası=1
+2024-05-22 17:07:57 - Doğru giriş girilen pozitif değer=1
+2024-05-22 17:07:57 - Satılık ev fiyatı=15000
+2024-05-22 17:07:57 - Girilen kat numarası=-3
+2024-05-22 17:07:57 - Emlak aktif durumu=True
+2024-05-22 17:07:57 - Ev yapım tarihi=2019
+2024-05-22 17:07:57 - Ev Yaşı=5
+2024-05-22 17:07:57 - Ev Yaşı=5
+2024-05-22 17:07:57 - Girilen semt=il=Bolu, ilçe= Mengen, mahalle=asdasd
+2024-05-22 17:07:57 - Evin Alanı =122
+2024-05-22 17:07:57 - Emlak numarası=2
+2024-05-22 17:08:19 - Doğru giriş girilen pozitif değer=8
+2024-05-22 17:08:19 - Satılık ev fiyatı=1999999
+2024-05-22 17:08:19 - Girilen kat numarası=-2
+2024-05-22 17:08:19 - Emlak aktif durumu=True
+2024-05-22 17:08:19 - Ev yapım tarihi=2008
+2024-05-22 17:08:19 - Ev Yaşı=16
+2024-05-22 17:08:19 - Ev Yaşı=16
+2024-05-22 17:08:19 - Girilen semt=il=Gümüşhane, ilçe= Şiran, mahalle=asdasd
+2024-05-22 17:08:19 - Evin Alanı =12
+2024-05-22 17:08:19 - Emlak numarası=3
+2024-05-22 17:08:49 - Doğru giriş girilen pozitif değer=8
+2024-05-22 17:08:49 - Satılık ev fiyatı=111111
+2024-05-22 17:08:49 - Girilen kat numarası=3
+2024-05-22 17:08:49 - Emlak aktif durumu=True
+2024-05-22 17:08:49 - Ev yapım tarihi=2009
+2024-05-22 17:08:49 - Ev Yaşı=15
+2024-05-22 17:08:49 - Ev Yaşı=15
+2024-05-22 17:08:49 - Girilen semt=il=Siirt, ilçe= Pervari, mahalle=aaaaaa
+2024-05-22 17:08:49 - Evin Alanı =190
+2024-05-22 17:08:49 - Emlak numarası=4
+2024-05-22 17:22:16 - Doğru giriş girilen pozitif değer=5
+2024-05-22 17:22:16 - Satılık ev fiyatı=2442424
+2024-05-22 17:22:16 - Girilen kat numarası=-3
+2024-05-22 17:22:16 - Emlak aktif durumu=True
+2024-05-22 17:22:16 - Ev yapım tarihi=2009
+2024-05-22 17:22:16 - Ev Yaşı=15
+2024-05-22 17:22:16 - Ev Yaşı=15
+2024-05-22 17:22:16 - Girilen semt=il=Ankara, ilçe= Bala, mahalle=asd
+2024-05-22 17:22:16 - Evin Alanı =122
+2024-05-22 17:22:16 - Emlak numarası=5
+2024-05-23 15:20:19 - Doğru giriş girilen pozitif değer=5
+2024-05-23 15:20:19 - Kira fiyatı=232323
+2024-05-23 15:20:19 - Kira depozito=2323233
+2024-05-23 15:20:19 - Emlak aktif durumu=True
+2024-05-23 15:20:19 - Ev yapım tarihi=2023
+2024-05-23 15:20:19 - Ev Yaşı=1
+2024-05-23 15:20:19 - Ev Yaşı=1
+2024-05-23 15:20:19 - Girilen semt=il=Antalya, ilçe= Elmalı, mahalle=asdasd
+2024-05-23 15:20:19 - Evin Alanı =5
+2024-05-23 15:20:19 - Emlak numarası=4
+2024-05-23 15:20:19 - Girilen kat numarası=4

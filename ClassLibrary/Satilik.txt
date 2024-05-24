@@ -1,0 +1,4 @@
+emlak numarasi=1, il=Ankara, ilçe= Güdül, mahalle=asdasd, Kat Numarası=11, Alanı=125, Yapım Tarihi=2000, Ev Yaşı=24, Oda Sayısı=5, Aktif Mi=False, Satılık Ev Fiyatı=250000, Ev Türü=Dubleks
+emlak numarasi=3, il=Gümüşhane, ilçe= Şiran, mahalle=asdasd, Kat Numarası=-2, Alanı=12, Yapım Tarihi=2008, Ev Yaşı=16, Oda Sayısı=8, Aktif Mi=False, Satılık Ev Fiyatı=1999999, Ev Türü=Mustakil
+emlak numarasi=4, il=Siirt, ilçe= Pervari, mahalle=aaaaaa, Kat Numarası=3, Alanı=190, Yapım Tarihi=2009, Ev Yaşı=15, Oda Sayısı=8, Aktif Mi=True, Satılık Ev Fiyatı=111111, Ev Türü=Daire
+emlak numarasi=5, il=Ankara, ilçe= Bala, mahalle=asd, Kat Numarası=-3, Alanı=122, Yapım Tarihi=2009, Ev Yaşı=15, Oda Sayısı=5, Aktif Mi=True, Satılık Ev Fiyatı=2442424, Ev Türü=Bahceli

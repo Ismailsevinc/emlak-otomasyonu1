@@ -1,0 +1,4 @@
+emlak numarasi=1, il=Amasya, ilçe= Hamamözü, mahalle=asdads, Kat Numarası=5, Alanı=125, Yapım Tarihi=2009, Ev Yaşı=15, Oda Sayısı=4, Aktif Mi=False, Kira Fiyatı=25000, Kira Depozito Fiyatı=15000, Ev Türü=Bahceli
+emlak numarasi=2, il=Bartın, ilçe= Kurucaşile, mahalle=asaasas, Kat Numarası=-2, Alanı=12, Yapım Tarihi=1999, Ev Yaşı=25, Oda Sayısı=3, Aktif Mi=True, Kira Fiyatı=18000, Kira Depozito Fiyatı=2000, Ev Türü=Bahceli
+emlak numarasi=3, il=Afyonkarahisar, ilçe= Çay, mahalle=aaaa, Kat Numarası=5, Alanı=6, Yapım Tarihi=2023, Ev Yaşı=1, Oda Sayısı=5, Aktif Mi=False, Kira Fiyatı=155555, Kira Depozito Fiyatı=2000, Ev Türü=Dubleks
+emlak numarasi=4, il=Antalya, ilçe= Elmalı, mahalle=asdasd, Kat Numarası=4, Alanı=5, Yapım Tarihi=2023, Ev Yaşı=1, Oda Sayısı=5, Aktif Mi=True, Kira Fiyatı=232323, Kira Depozito Fiyatı=2323233, Ev Türü=Bahceli

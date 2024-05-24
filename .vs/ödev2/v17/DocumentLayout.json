@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ismai\\OneDrive\\Masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE8888C-C3B2-40A0-8DE9-13326B37369D}|\u00F6dev2.0\\\u00F6dev2.0.csproj|C:\\Users\\ismai\\OneDrive\\Masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\\u00F6dev2.0\\yenievekleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE8888C-C3B2-40A0-8DE9-13326B37369D}|\u00F6dev2.0\\\u00F6dev2.0.csproj|solutionrelative:\u00F6dev2.0\\yenievekleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5D0EA4-40CE-48D9-93EB-01D3A436689A}|ClassLibrary\\ClassLibrary.csproj|C:\\Users\\ismai\\OneDrive\\Masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\classlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5D0EA4-40CE-48D9-93EB-01D3A436689A}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE8888C-C3B2-40A0-8DE9-13326B37369D}|\u00F6dev2.0\\\u00F6dev2.0.csproj|c:\\users\\ismai\\onedrive\\masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\\u00F6dev2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CE8888C-C3B2-40A0-8DE9-13326B37369D}|\u00F6dev2.0\\\u00F6dev2.0.csproj|solutionrelative:\u00F6dev2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE8888C-C3B2-40A0-8DE9-13326B37369D}|\u00F6dev2.0\\\u00F6dev2.0.csproj|c:\\users\\ismai\\onedrive\\masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\\u00F6dev2.0\\sorguekran\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CE8888C-C3B2-40A0-8DE9-13326B37369D}|\u00F6dev2.0\\\u00F6dev2.0.csproj|solutionrelative:\u00F6dev2.0\\sorguekran\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE8888C-C3B2-40A0-8DE9-13326B37369D}|\u00F6dev2.0\\\u00F6dev2.0.csproj|C:\\Users\\ismai\\OneDrive\\Masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\\u00F6dev2.0\\evd\u00FCzenleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CE8888C-C3B2-40A0-8DE9-13326B37369D}|\u00F6dev2.0\\\u00F6dev2.0.csproj|solutionrelative:\u00F6dev2.0\\evd\u00FCzenleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE8888C-C3B2-40A0-8DE9-13326B37369D}|\u00F6dev2.0\\\u00F6dev2.0.csproj|C:\\Users\\ismai\\OneDrive\\Masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\\u00F6dev2.0\\yenievekleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CE8888C-C3B2-40A0-8DE9-13326B37369D}|\u00F6dev2.0\\\u00F6dev2.0.csproj|solutionrelative:\u00F6dev2.0\\yenievekleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE8888C-C3B2-40A0-8DE9-13326B37369D}|\u00F6dev2.0\\\u00F6dev2.0.csproj|C:\\Users\\ismai\\OneDrive\\Masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\\u00F6dev2.0\\sorguekran\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE8888C-C3B2-40A0-8DE9-13326B37369D}|\u00F6dev2.0\\\u00F6dev2.0.csproj|solutionrelative:\u00F6dev2.0\\sorguekran\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE8888C-C3B2-40A0-8DE9-13326B37369D}|\u00F6dev2.0\\\u00F6dev2.0.csproj|C:\\Users\\ismai\\OneDrive\\Masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\\u00F6dev2.0\\evsilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE8888C-C3B2-40A0-8DE9-13326B37369D}|\u00F6dev2.0\\\u00F6dev2.0.csproj|solutionrelative:\u00F6dev2.0\\evsilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE8888C-C3B2-40A0-8DE9-13326B37369D}|\u00F6dev2.0\\\u00F6dev2.0.csproj|C:\\Users\\ismai\\OneDrive\\Masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\\u00F6dev2.0\\evd\u00FCzenleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE8888C-C3B2-40A0-8DE9-13326B37369D}|\u00F6dev2.0\\\u00F6dev2.0.csproj|solutionrelative:\u00F6dev2.0\\evd\u00FCzenleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ismai\\OneDrive\\Masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\\u00F6dev2.0\\Form1.cs",
+              "RelativeDocumentMoniker": "\u00F6dev2.0\\Form1.cs",
+              "ToolTip": "C:\\Users\\ismai\\OneDrive\\Masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\\u00F6dev2.0\\Form1.cs [Design]",
+              "RelativeToolTip": "\u00F6dev2.0\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:08:58.488Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ismai\\OneDrive\\Masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\ClassLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\ismai\\OneDrive\\Masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\ClassLibrary\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary\\Class1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:50:46.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YeniEvEkleme.cs",
+              "DocumentMoniker": "C:\\Users\\ismai\\OneDrive\\Masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\\u00F6dev2.0\\YeniEvEkleme.cs",
+              "RelativeDocumentMoniker": "\u00F6dev2.0\\YeniEvEkleme.cs",
+              "ToolTip": "C:\\Users\\ismai\\OneDrive\\Masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\\u00F6dev2.0\\YeniEvEkleme.cs",
+              "RelativeToolTip": "\u00F6dev2.0\\YeniEvEkleme.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAowH4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:21:18.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EvD\u00FCzenleme.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ismai\\OneDrive\\Masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\\u00F6dev2.0\\EvD\u00FCzenleme.cs",
+              "RelativeDocumentMoniker": "\u00F6dev2.0\\EvD\u00FCzenleme.cs",
+              "ToolTip": "C:\\Users\\ismai\\OneDrive\\Masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\\u00F6dev2.0\\EvD\u00FCzenleme.cs [Design]",
+              "RelativeToolTip": "\u00F6dev2.0\\EvD\u00FCzenleme.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:25:31.342Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "YeniEvEkleme.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ismai\\OneDrive\\Masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\\u00F6dev2.0\\YeniEvEkleme.cs",
+              "RelativeDocumentMoniker": "\u00F6dev2.0\\YeniEvEkleme.cs",
+              "ToolTip": "C:\\Users\\ismai\\OneDrive\\Masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\\u00F6dev2.0\\YeniEvEkleme.cs [Design]",
+              "RelativeToolTip": "\u00F6dev2.0\\YeniEvEkleme.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:21:27.643Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EvSilme.cs",
+              "DocumentMoniker": "C:\\Users\\ismai\\OneDrive\\Masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\\u00F6dev2.0\\EvSilme.cs",
+              "RelativeDocumentMoniker": "\u00F6dev2.0\\EvSilme.cs",
+              "ToolTip": "C:\\Users\\ismai\\OneDrive\\Masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\\u00F6dev2.0\\EvSilme.cs",
+              "RelativeToolTip": "\u00F6dev2.0\\EvSilme.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAQwIAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:14:43.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SorguEkran\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\ismai\\OneDrive\\Masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\\u00F6dev2.0\\SorguEkran\u0131.cs",
+              "RelativeDocumentMoniker": "\u00F6dev2.0\\SorguEkran\u0131.cs",
+              "ToolTip": "C:\\Users\\ismai\\OneDrive\\Masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\\u00F6dev2.0\\SorguEkran\u0131.cs",
+              "RelativeToolTip": "\u00F6dev2.0\\SorguEkran\u0131.cs",
+              "ViewState": "AQIAANMBAAAAAAAAAAAQwPoBAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:17:59.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SorguEkran\u0131.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ismai\\OneDrive\\Masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\\u00F6dev2.0\\SorguEkran\u0131.cs",
+              "RelativeDocumentMoniker": "\u00F6dev2.0\\SorguEkran\u0131.cs",
+              "ToolTip": "C:\\Users\\ismai\\OneDrive\\Masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\\u00F6dev2.0\\SorguEkran\u0131.cs [Design]",
+              "RelativeToolTip": "\u00F6dev2.0\\SorguEkran\u0131.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:01:55.825Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EvD\u00FCzenleme.cs",
+              "DocumentMoniker": "C:\\Users\\ismai\\OneDrive\\Masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\\u00F6dev2.0\\EvD\u00FCzenleme.cs",
+              "RelativeDocumentMoniker": "\u00F6dev2.0\\EvD\u00FCzenleme.cs",
+              "ToolTip": "C:\\Users\\ismai\\OneDrive\\Masa\u00FCst\u00FC\\\u00F6dev2\\\u00F6dev2\\\u00F6dev2.0\\EvD\u00FCzenleme.cs",
+              "RelativeToolTip": "\u00F6dev2.0\\EvD\u00FCzenleme.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAkwJ0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:25:40.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
